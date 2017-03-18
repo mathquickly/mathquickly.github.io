@@ -1,0 +1,4 @@
+-template is called DashGum
+-use cookies
+	-pop up message about where the user just left off at
+	-provide a link to that lesson
